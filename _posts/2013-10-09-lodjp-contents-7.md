@@ -27,19 +27,8 @@ categories:
   * [Togetter: 第7回LinkedData勉強会 #lodjp](http://togetter.com/li/574499)
 
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/AXRjxtIQnQMXly" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/takeda/linked-data-27004271" title="Linked Data (再)入門" target="_blank">Linked Data (再)入門</a> </strong> from <strong><a href="https://www.slideshare.net/takeda" target="_blank">National Institute of Informatics (NII)</a></strong> </div>
 
-<div style="margin-bottom:5px">
-  <strong> <a href="//www.slideshare.net/takeda/linked-data-27004271" title="Linked Data (再)入門" target="_blank">Linked Data (再)入門</a> </strong> from <strong><a href="//www.slideshare.net/takeda" target="_blank">Hideaki Takeda</a></strong>
-</div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/4mEcY9KzhyJbKs" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/arg_editor/7th-linked-data20131008" title="7th_LinkedData(20131008)" target="_blank">7th_LinkedData(20131008)</a> </strong> from <strong><a href="https://www.slideshare.net/arg_editor" target="_blank">真 岡本</a></strong> </div>
 
-
-
-<div style="margin-bottom:5px">
-  <strong> <a href="//www.slideshare.net/arg_editor/7th-linked-data20131008" title="7th_LinkedData(20131008)" target="_blank">7th_LinkedData(20131008)</a> </strong> from <strong><a href="//www.slideshare.net/arg_editor" target="_blank">真 岡本</a></strong>
-</div>
-
-
-
-<div style="margin-bottom:5px">
-  <strong> <a href="//www.slideshare.net/yayamamo/7-linked-data-yayamamo" title="第7回 Linked Data 勉強会 @yayamamo" target="_blank">第7回 Linked Data 勉強会 @yayamamo</a> </strong> from <strong><a href="//www.slideshare.net/yayamamo" target="_blank">yayamamo @ DBCLS Kashiwanoha</a></strong>
-</div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/v2vmZpy1Qnbuv8" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/yayamamo/7-linked-data-yayamamo" title="第7回 Linked Data 勉強会 @yayamamo" target="_blank">第7回 Linked Data 勉強会 @yayamamo</a> </strong> from <strong><a href="https://www.slideshare.net/yayamamo" target="_blank">yayamamo @ DBCLS Kashiwanoha</a></strong> </div>
