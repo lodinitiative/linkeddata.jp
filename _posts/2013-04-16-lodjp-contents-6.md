@@ -14,13 +14,6 @@ tags:
   - LinkedData
   - lod
 ---
-<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
-
-<!-- Facebook Like Button END -->
-
-<div class="twitterbutton" style="float: left; padding-right: 5px;">
-  <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-text="第6回LinkedData勉強会関連資料" data-via="" data-url="https://linkeddata.jp/2013/04/16/lodjp-contents-6/" data-lang="en" data-related="DolcePixel:We make beautiful and sweet WordPress Themes"></a>
-</div>
 
 2013-04-15 に行った第6回LinkedData勉強会の関連資料まとめです．(敬称略)
 
@@ -28,7 +21,7 @@ tags:
   * [CCライセンスとデータ共有](#cc) (by 渡辺 [wata_tomo](http://twitter.com/wata_tomo))
   * [ODCライセンスのOpenStreetMapでの導入事例紹介](#odc) (by 東 [higa4](http://twitter.com/higa4))
   * [Togetter: 第6回 LinkedData勉強会 &#8211; オープンライセンス]()
-      * [Ustreamアーカイブ](http://www.ustream.tv/recorded/31502709)</ul>
+  * [Ustreamアーカイブ](http://www.ustream.tv/recorded/31502709)
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/kJGQFCxcfmqXsb" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/masayukihatta/mhatta-lod20130415" title="Open Licensing?" target="_blank">Open Licensing?</a> </strong> from <strong><a href="https://www.slideshare.net/masayukihatta" target="_blank">真行 八田</a></strong> </div>
 

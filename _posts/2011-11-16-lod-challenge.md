@@ -14,13 +14,6 @@ tags:
   - LinkedData
   - lod
 ---
-<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
-
-<!-- Facebook Like Button END -->
-
-<div class="twitterbutton" style="float: left; padding-right: 5px;">
-  <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-text="第1回LODチャレンジデー in 大阪 &#038; 第2回LODチャレンジデー..." data-via="" data-url="https://linkeddata.jp/2011/11/16/lod-challenge/" data-lang="en" data-related="DolcePixel:We make beautiful and sweet WordPress Themes"></a>
-</div>
 
 11/19(土)の第1回LODチャレンジデー in 東京に引き続き，12/3(土)にLODチャレンジデーを大阪と東京で開催します．
 

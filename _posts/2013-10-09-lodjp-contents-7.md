@@ -10,13 +10,6 @@ categories:
   - Event
   - LinkedData
 ---
-<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
-
-<!-- Facebook Like Button END -->
-
-<div class="twitterbutton" style="float: left; padding-right: 5px;">
-  <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-text="第7回LinkedData勉強会関連資料" data-via="" data-url="https://linkeddata.jp/2013/10/09/lodjp-contents-7/" data-lang="en" data-related="DolcePixel:We make beautiful and sweet WordPress Themes"></a>
-</div>
 
 2013年10月8日(火) 19:00-21:00に[インフォコム株式会社](http://www.infocom.co.jp/aboutus/)にて開催された第7回LinkedData勉強会の関連資料まとめです(敬称略)．
 

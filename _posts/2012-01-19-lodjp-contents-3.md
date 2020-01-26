@@ -17,13 +17,6 @@ tags:
   - RDF
   - lod
 ---
-<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
-
-<!-- Facebook Like Button END -->
-
-<div class="twitterbutton" style="float: left; padding-right: 5px;">
-  <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-text="第3回LinkedData勉強会 関連資料" data-via="" data-url="https://linkeddata.jp/2012/01/19/lodjp-contents-3/" data-lang="en" data-related="DolcePixel:We make beautiful and sweet WordPress Themes"></a>
-</div>
 
 2012/01/18 に行った第3回LinkedData勉強会の関連資料まとめです．資料は集まり次第順次公開していきます．(敬称略)
 
@@ -35,19 +28,8 @@ tags:
   * [Ustreamアーカイブ](http://www.ustream.tv/recorded/19841387)
 
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/FfNuCAL8dj3d0j" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/fumihiro/20110118-linkeddatajp" title="20110118 linkeddatajp" target="_blank">20110118 linkeddatajp</a> </strong> from <strong><a href="https://www.slideshare.net/fumihiro" target="_blank">Fumihiro Kato</a></strong> </div>
 
-<div style="margin-bottom:5px">
-  <strong> <a href="//www.slideshare.net/fumihiro/20110118-linkeddatajp" title="20110118 linkeddatajp" target="_blank">20110118 linkeddatajp</a> </strong> from <strong><a href="//www.slideshare.net/fumihiro" target="_blank">Fumihiro Kato</a></strong>
-</div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/K0MK7fnVoqsoku" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ShinobuOkamoto/linkeddata" title="第三回LinkedData勉強会での発表資料です" target="_blank">第三回LinkedData勉強会での発表資料です</a> </strong> from <strong><a href="https://www.slideshare.net/ShinobuOkamoto" target="_blank">Shinobu Okamoto</a></strong> </div>
 
-
-
-<div style="margin-bottom:5px">
-  <strong> <a href="//www.slideshare.net/ShinobuOkamoto/linkeddata" title="第三回LinkedData勉強会での発表資料です" target="_blank">第三回LinkedData勉強会での発表資料です</a> </strong> from <strong><a href="//www.slideshare.net/ShinobuOkamoto" target="_blank">Shinobu Okamoto</a></strong>
-</div>
-
-
-
-<div style="margin-bottom:5px">
-  <strong> <a href="//www.slideshare.net/ikki.ohmukai/cinii-11154725" title="CiNiiのメタデータ・デザイン＠LinkedData勉強会（2012.01.18）" target="_blank">CiNiiのメタデータ・デザイン＠LinkedData勉強会（2012.01.18）</a> </strong> from <strong><a href="//www.slideshare.net/ikki.ohmukai" target="_blank">Ikki Ohmukai</a></strong>
-</div>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/DJXnUaM6fHbOXp" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ikki.ohmukai/cinii-11154725" title="CiNiiのメタデータ・デザイン＠LinkedData勉強会（2012.01.18）" target="_blank">CiNiiのメタデータ・デザイン＠LinkedData勉強会（2012.01.18）</a> </strong> from <strong><a href="https://www.slideshare.net/ikki.ohmukai" target="_blank">Ikki Ohmukai</a></strong> </div>

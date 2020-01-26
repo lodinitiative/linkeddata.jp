@@ -14,13 +14,6 @@ tags:
   - LinkedData
   - lod
 ---
-<!-- Facebook Like Button v1.9.6 BEGIN [http://blog.bottomlessinc.com] -->
-
-<!-- Facebook Like Button END -->
-
-<div class="twitterbutton" style="float: left; padding-right: 5px;">
-  <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-text="LODチャレンジ Japan 2011 &#038; 第1回 LODチャレンジデー" data-via="" data-url="https://linkeddata.jp/2011/10/25/lodchallenge/" data-lang="en" data-related="DolcePixel:We make beautiful and sweet WordPress Themes"></a>
-</div>
 
 Linked Open Dataに関するコンテストを日本でも行おうということで，有志により[Linked Open Data Challenge Japan 2001](http://lod.sfc.keio.ac.jp/challenge2011/)を開催することになりました．LinkedData勉強会もサポーターとなっています．
 
